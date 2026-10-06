@@ -1,0 +1,5 @@
+1) Создать аккаунт Microsoft на outlook.com;
+2) Скачать Power Automate Desktop;
+3) Создать сценарий 'BrowserAutomation' по примеру;
+4) Создать сценарий 'SystemCleanup' для очистки системного диска;
+5) Создать сценарий 'ClearHistory' для удаления истории браузера.
